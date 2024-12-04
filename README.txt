@@ -4,7 +4,7 @@ REQUIREMENTS: Python3.10 >, OpenAI api key, residential proxy domain
 
 1. Set OPENAI_API_KEY as environment variable
 
-EXPORT OPENAI_API_KEY="your openai api key"
+export OPENAI_API_KEY="your openai api key"
 
 2. Edit config.ini with your proxy domain information
 **NOTE** If you do not have a proxy domain setup, please follow the instructions in the main function of demo.py
